@@ -50,6 +50,6 @@ Also, the scan chain bit-purpose table will be printed in scan_sheet.xlsx in the
 	
  ## 3.Author
  
-Songsen Wang netID: sw5822
+Songsen Wang
  
  
